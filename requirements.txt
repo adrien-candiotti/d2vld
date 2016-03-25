@@ -1,0 +1,8 @@
+dnspython==1.12.0
+docker-py==1.7.2
+python-etcd==0.4.3
+pytz==2013.8
+requests==2.1.0
+six==1.10.0
+urllib3==1.14
+websocket-client==0.35.0
